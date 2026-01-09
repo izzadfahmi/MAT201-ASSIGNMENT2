@@ -1,0 +1,5 @@
+{
+  "name": "Partial Derivative Explorer",
+  "description": "An interactive tool to visualize partial derivatives as rates of change using 2D cross-sections and AI-powered explanations.",
+  "requestFramePermissions": []
+}
